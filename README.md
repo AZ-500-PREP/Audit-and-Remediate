@@ -10,3 +10,7 @@
 - [Enable Encryption for Non-Boot Disk Volumes](/EnableEncryptionforNon-BootDiskVolumes.md)
 
 
+## Security Center
+- [Check for Azure Security Center Recommendations](/CheckForAzureSecurityCenterRecommendations.md)
+
+
