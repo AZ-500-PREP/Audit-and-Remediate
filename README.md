@@ -12,5 +12,6 @@
 
 ## Security Center
 - [Check for Azure Security Center Recommendations](/CheckForAzureSecurityCenterRecommendations.md)
+- [Enable System Updates Monitoring](/EnableSystemUpdatesMonitoring.md)
 
 
