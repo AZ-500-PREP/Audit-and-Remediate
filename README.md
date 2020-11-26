@@ -20,6 +20,7 @@
 
 ## Storage Accounts
 - [Allow Shared Access Signature Tokens Over HTTPS Only](/AllowSharedAccessSignatureTokensOverHTTPSOnly.md)
+- [Enable Soft Delete for Azure Blob Storage](/EnableSoftDeleteforAzureBlobStorage.md)
 
 
 
