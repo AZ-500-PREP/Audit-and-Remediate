@@ -18,4 +18,8 @@
 - [Check for Azure Security Center Recommendations](/CheckForAzureSecurityCenterRecommendations.md)
 - [Enable System Updates Monitoring](/EnableSystemUpdatesMonitoring.md)
 
+## Storage Accounts
+- [Allow Shared Access Signature Tokens Over HTTPS Only](/AllowSharedAccessSignatureTokensOverHTTPSOnly.md)
+
+
 
