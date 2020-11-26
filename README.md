@@ -1,5 +1,5 @@
 # Audit and Remediate
-
+> This repo will be dedicated to helping you audit your Azure Cloud environment and help you remediate any security issues within the environment.
 
 ## Azure Kubernetes Service (AKS)
 
