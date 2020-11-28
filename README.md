@@ -1,4 +1,7 @@
 # Audit and Remediate
+
+Reach out on [![Gitter](https://badges.gitter.im/Azure-Security-Engineer-Associate-Prep/community.svg)](https://gitter.im/Azure-Security-Engineer-Associate-Prep/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 > This repo will be dedicated to helping you audit your Azure Cloud environment and help you remediate any security issues within the environment.
 
 ## Azure Kubernetes Service (AKS)
