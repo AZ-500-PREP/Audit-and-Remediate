@@ -13,6 +13,9 @@ Reach out on [![Gitter](https://badges.gitter.im/Azure-Security-Engineer-Associa
 - [Restrict Default Network Access for Azure Cosmos DB Accounts](/RestrictDefaultNetworkAccessforAzureCosmosDBAccounts.md)
 
 
+## PostgreSQL 
+- [Enable In-Transit Encryption for PostgreSQL Database Servers](/EnableIn-TransitEncryptionforPostgreSQLDatabaseServers.md)
+
 ## Virtual Machines
 - [Enable Encryption for Non-Boot Disk Volumes](/EnableEncryptionforNon-BootDiskVolumes.md)
 
