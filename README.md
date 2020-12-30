@@ -15,6 +15,7 @@ Reach out on [![Gitter](https://badges.gitter.im/Azure-Security-Engineer-Associa
 
 ## PostgreSQL 
 - [Enable In-Transit Encryption for PostgreSQL Database Servers](/EnableIn-TransitEncryptionforPostgreSQLDatabaseServers.md)
+- [Use Azure Active Directory Admin for PostgreSQL Authentication](/UserAzureActiveDirectoryAdminForPostgreSQLAuthentication.md)
 
 ## Virtual Machines
 - [Enable Encryption for Non-Boot Disk Volumes](/EnableEncryptionforNon-BootDiskVolumes.md)
